@@ -16,7 +16,7 @@ public class VictorianoBanosRosGIT {
     public static void main(String[] args) {
         // TODO code application logic here
     
-    int var=1;
+    int var=2;
     
     System.out.println("Variable= "+var);
     
